@@ -43,7 +43,7 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
 
 .reveal-viewport {
   background: #fff;
-  background-color: url(../source/black.scss);
+  background-color: url(../../../pic/b0.png);
   background-repeat: no-repeat;
   background-size: cover;
 }
