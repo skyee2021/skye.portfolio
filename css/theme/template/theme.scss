@@ -9,7 +9,7 @@
 .reveal-viewport {
 	@include bodyBackground();
 	// background-color: var(--r-background-color);
-	background-color: url(../../../pic/b0.png);
+	background-image: url(../source/black.scss);
 	background-repeat: no-repeat;
 	background-size: cover;
 }
