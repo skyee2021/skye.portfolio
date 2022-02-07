@@ -44,7 +44,7 @@ html * {
 
 .reveal-viewport {
   background: #fdf6e3;
-  background-color: var(--r-background-color);
+  background-color: url(../source/black.scss);
   background-repeat: no-repeat;
   background-size: cover;
 }

@@ -40,7 +40,7 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
 
 .reveal-viewport {
   background: #fff;
-  background-color: var(--r-background-color);
+  background-color: url(../source/black.scss);
   background-repeat: no-repeat;
   background-size: cover;
 }

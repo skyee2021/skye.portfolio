@@ -46,7 +46,7 @@ section.has-light-background, section.has-light-background h1, section.has-light
 
 .reveal-viewport {
   background: #222;
-  background-color: var(--r-background-color);
+  background-color: url(../source/black.scss);
   background-repeat: no-repeat;
   background-size: cover;
 }
