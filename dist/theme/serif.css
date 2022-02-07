@@ -16,7 +16,7 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
  * GLOBAL STYLES
  *********************************************/
 :root {
-  --r-background-color: url(../../../pic/b0.png);
+  --r-background-color: #F0F1EB;
   --r-main-font: Palatino Linotype, Book Antiqua, Palatino, FreeSerif, serif;
   --r-main-font-size: 40px;
   --r-main-color: #000;
@@ -44,7 +44,7 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
 
 .reveal-viewport {
   background: #F0F1EB;
-  background-color: var(--r-background-color);
+  background-color: url(../../../pic/b0.png);
   background-repeat: no-repeat;
   background-size: cover;
 }

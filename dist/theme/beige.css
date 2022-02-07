@@ -13,7 +13,7 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
  * GLOBAL STYLES
  *********************************************/
 :root {
-  --r-background-color: url(../../../pic/b0.png);
+  --r-background-color: #f7f3de;
   --r-main-font: Lato, sans-serif;
   --r-main-font-size: 40px;
   --r-main-color: #333;
@@ -47,7 +47,7 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
   background: -o-radial-gradient(center, circle cover, white 0%, #f7f2d3 100%);
   background: -ms-radial-gradient(center, circle cover, white 0%, #f7f2d3 100%);
   background: radial-gradient(center, circle cover, white 0%, #f7f2d3 100%);
-  background-color: var(--r-background-color);
+  background-color: url(../../../pic/b0.png);
   background-repeat: no-repeat;
   background-size: cover;
 }

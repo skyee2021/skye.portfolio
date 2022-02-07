@@ -16,7 +16,7 @@ html * {
  * GLOBAL STYLES
  *********************************************/
 :root {
-  --r-background-color: url(../../../pic/b0.png);
+  --r-background-color: #fdf6e3;
   --r-main-font: Lato, sans-serif;
   --r-main-font-size: 40px;
   --r-main-color: #657b83;
@@ -44,7 +44,7 @@ html * {
 
 .reveal-viewport {
   background: #fdf6e3;
-  background-color: var(--r-background-color);
+  background-color: url(../../../pic/b0.png);
   background-repeat: no-repeat;
   background-size: cover;
 }

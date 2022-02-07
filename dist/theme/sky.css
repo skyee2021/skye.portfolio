@@ -17,7 +17,7 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
  * GLOBAL STYLES
  *********************************************/
 :root {
-  --r-background-color: url(../../../pic/b0.png);
+  --r-background-color: #f7fbfc;
   --r-main-font: Open Sans, sans-serif;
   --r-main-font-size: 40px;
   --r-main-color: #333;
@@ -51,7 +51,7 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
   background: -o-radial-gradient(center, circle cover, #f7fbfc 0%, #add9e4 100%);
   background: -ms-radial-gradient(center, circle cover, #f7fbfc 0%, #add9e4 100%);
   background: radial-gradient(center, circle cover, #f7fbfc 0%, #add9e4 100%);
-  background-color: var(--r-background-color);
+  background-color: url(../../../pic/b0.png);
   background-repeat: no-repeat;
   background-size: cover;
 }
