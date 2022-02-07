@@ -18,7 +18,7 @@ section.has-light-background, section.has-light-background h1, section.has-light
  * GLOBAL STYLES
  *********************************************/
 :root {
-  --r-background-color: #222;
+  --r-background-color: url(../../../pic/b0.png);
   --r-main-font: Ubuntu, sans-serif;
   --r-main-font-size: 40px;
   --r-main-color: #eee;
