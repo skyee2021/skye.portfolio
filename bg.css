@@ -22,3 +22,60 @@ html {
   /* outline: 1px solid #fcc; */
   margin: 0;
 }
+
+.emmaljunga{
+  /* outline: violet 1px solid; */
+  width: 60%;
+  padding-left: 10%;
+
+}
+.emmaljunga img{
+  margin: 0;
+  width: 50%;
+  
+}
+.emmaljunga-li{
+  width:120%; 
+  /* outline: 1px slateblue solid;   */
+  position: relative; 
+  padding: 0;
+  top: 13%;
+  left: 6%;
+}
+
+.emmaljunga-li li{
+  /* list-style: none; */
+  font-size: 24px;
+  text-align: left;
+}
+
+.rtix{
+  display: flex;
+  outline: rgb(130, 134, 123) 1px solid;
+}
+
+.rtix-pic{
+  width: 55%;
+  padding: 0;
+  /* outline: orangered 1px solid; */
+  position: relative;
+  
+}
+.rtix-pic img{
+  width: 100%;
+  height: 100%;
+  object-fit:cover;
+  margin: 0;
+  /* outline:#ffc8bd 1px solid; */
+}
+.rtix-des{
+  width: 50%;
+}
+.rtix p{
+  color: wheat;
+  font-size: 12px;
+  display: block;
+  text-align: start;
+  margin-left: 16px;
+  /* line-height: 1px; */
+}
