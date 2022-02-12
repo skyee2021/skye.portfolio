@@ -10,10 +10,12 @@ html {
   line-height: 15px;
   text-align: right;
   color: wheat;
+  margin-right: 10px;
   /* margin-bottom: 120%; */
 }
 .pagameo-right{
   text-align: left;
+  margin-left: 10px;
 }
 
 .pagamo-des ul{
@@ -51,7 +53,7 @@ html {
 
 .rtix{
   display: flex;
-  outline: rgb(130, 134, 123) 1px solid;
+  /* outline: rgb(130, 134, 123) 1px solid; */
 }
 
 .rtix-pic{
@@ -71,11 +73,22 @@ html {
 .rtix-des{
   width: 50%;
 }
-.rtix p{
+.rtix h6{
+  font-size: 18px;
+  color: rgb(224, 130, 41);
+  margin: 0;
+  margin-top: 8%;
+  text-align: start;
+  margin-left: 20px;
+}
+
+.rtix span{
+  /* outline: aqua 1px solid; */
   color: wheat;
   font-size: 12px;
   display: block;
   text-align: start;
-  margin-left: 16px;
-  /* line-height: 1px; */
+  /* margin-top: 25px; */
+  margin-left: 20px;
+  line-height: 25px;
 }
